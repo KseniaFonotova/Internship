@@ -1,4 +1,6 @@
 cd h:/papka - увидеть папку
 git init - добавить папку в репозиторий
 git status - отследить
-git add . -добавить файлы c
+git add . -добавить файлы 
+git remote add origin https://github.com/KseniaFonotova/-Skanatek-.git - добавить в репозиторий
+git push -u origin master
